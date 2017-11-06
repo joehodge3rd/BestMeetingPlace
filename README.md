@@ -1,0 +1,2 @@
+# BestMeetingPlace
+Open meeting place
